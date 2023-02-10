@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Jogo - Torre de Bloco</title>
+    <meta name="viewport" content="width=device-width,user-scalable=no" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="game"></div>
+      <div id="score">0</div>
+      <div id="instructions">
+        Clique (ou pressione a barra de espaço) para colocar o bloco
+      </div>
+      <div class="game-over">
+        <h2>Fim De Jogo</h2>
+        <p>Você foi muito bem, deu o seu melhor.</p>
+        <p>Clique na barra de espaço para começar novamente</p>
+      </div>
+      <div class="game-ready">
+        <div id="start-button">Começar</div>
+        <div></div>
+      </div>
+    </div>
+    <!-- partial -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
