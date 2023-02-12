@@ -17,10 +17,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto está sob a licença MIT.
 
-## 💻 Projeto
+## 💻 JOGO
 
 A Lista To-Do é uma aplicação para afazeres
 
-- [Visite o projeto online](https://andreh-carioca.github.io/lista-toDo/)
+- [Visite o projeto online](https://andreh-carioca.github.io/jogo-da-torre/)
 
 
