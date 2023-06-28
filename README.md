@@ -1,26 +1,26 @@
-<h1 align="center"> Jogo de torre blocos </h1>
+<h1 align="center">Jogo Online - Torre de Blocos </h1>
 
-<p align="center"> A Lista To-Do consiste em uma aplicação simples, possibilitando a criação e organiza de afazeres. <br/>
-</p>
+<br>
 
+## Tecnologias Usadas
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML
-- CSS
+- HTML e CSS
 - JavaScript
-- Git e Github
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+- Git e GitHub
 
 ## 💻 JOGO
 
-A Lista To-Do é uma aplicação para afazeres
+Link do Jogo
 
 - [Visite o projeto online](https://andreh-carioca.github.io/jogo-da-torre/)
+
+
+## Licença
+
+Esse projeto está sob a licença MIT.
+
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
+
+
 
 
